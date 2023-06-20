@@ -5,6 +5,7 @@ seoDescription: "Dive into JavaScript Hoisting! Explore variable/function hoisti
 datePublished: Tue Jun 13 2023 14:49:03 GMT+0000 (Coordinated Universal Time)
 cuid: cliuefcbo000209l49x619icd
 slug: js-hoisting
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687269696237/7d0e1dca-fa62-4e24-95b9-91c8793ed215.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686667560032/c48f7769-9242-4cf4-abac-84d59fddd13b.png
 tags: javascript, web-development, webdev, reactjs
 
