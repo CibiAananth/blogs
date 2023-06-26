@@ -42,9 +42,9 @@ export function App() {
     const getUsers = async () => {
       const users = await fetchUsers();
       setUsers(users);
+      setNetworkState(REQUEST_STATUS.success);
     };
     getUsers();
-    setNetworkState(REQUEST_STATUS.success);
   }, []);
 
   return (
