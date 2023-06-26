@@ -1,5 +1,5 @@
 ---
-title: "Fix React.useState using "as const""
+title: "React.useState with "as const""
 seoTitle: "React.useState with "as const""
 seoDescription: "Optimize React.useState with "as const" for type safety, preventing bugs of the states in your components"
 datePublished: Mon Jun 26 2023 12:42:27 GMT+0000 (Coordinated Universal Time)
